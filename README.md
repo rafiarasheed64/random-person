@@ -1,1 +1,1 @@
-# random-person
+install it node_modules# random-person
